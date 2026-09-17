@@ -1,0 +1,31 @@
+# -----------------------------
+#            ADList
+# Profil : Default
+# Date : 23 décembre 2025
+# -----------------------------
+
+# ----- Applications -----
+# [Sentry]
+0.0.0.0 sentry.io # Monitoring d'application
+0.0.0.0 reload.getsentry.net # Monitoring d'application
+
+# [Wazuh]
+0.0.0.0 documentation.wazuh.com
+
+
+# ----- Publicités -----
+
+# [Québec]
+0.0.0.0 proficio-inc.com # entrepreneuriat Québec
+
+# [Sentry]
+0.0.0.0 sentry.io # Monitoring d'application
+0.0.0.0 reload.getsentry.net # Monitoring d'application
+
+
+## ----- Réseaux sociaux -----
+# [Facebook]
+0.0.0.0 c10r.facebook.com
+
+# [from X]
+0.0.0.0 topheadlinesnews.org # Fake news

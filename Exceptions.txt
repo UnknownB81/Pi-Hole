@@ -1,0 +1,23 @@
+# -----------------------------
+#            Exceptions
+# Profil : Exceptions
+# Date : 23 décembre 2025
+# -----------------------------
+
+# ----- Applications -----
+
+# [Wazuh]
+0.0.0.0 documentation.wazuh.com
+
+
+# ----- Publicités -----
+
+# [Québec]
+
+
+## ----- Réseaux sociaux -----
+# [Facebook]
+
+
+# [from X]
+
