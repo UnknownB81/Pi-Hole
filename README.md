@@ -1,1 +1,3 @@
 # Pi-Hole
+
+## Configuration
