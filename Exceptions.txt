@@ -1,7 +1,7 @@
 # -----------------------------
 #            Exceptions
 # Profil : Exceptions
-# Date : 23 décembre 2025
+# Date : 4 octobre 2026
 # -----------------------------
 
 # ----- Applications -----
